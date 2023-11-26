@@ -1,0 +1,6 @@
+What is React ?? React is a JavaScript Library used to create Web Applicationns then how to write the code in the html firstly we have to create 
+the div tag the the .html File secondly we have to paste the link of Core React and ReactDOM files in the body of our program
+we have to write the react code in the Script tag therefore create seperate App.js file then link it ...then how to do print the Heading in the 
+Page for this we have to call createElemen fumction and the has 3 parameters (the name of the tag,Object[may contain id],child, data that need to display),, this causes the problem while we have multiple inner tags like div tag..AND if we have siblings use array via through the child after 
+the second parameter  and it arraies the ERROR because it needs ti be unique key ...BUT but it seems more complecited threfore the JSX came into existience ..Write more about the render fumction 
+here the root is applied to an individual name of the tag it may be in even single tag..some of the facts about render are it replace what ever written in the example in the id name called as the root tag IT All replaces if we wrote outside the tag it simply primt in the page as it is 
