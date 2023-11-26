@@ -4,3 +4,9 @@ we have to write the react code in the Script tag therefore create seperate App.
 Page for this we have to call createElemen fumction and the has 3 parameters (the name of the tag,Object[may contain id],child, data that need to display),, this causes the problem while we have multiple inner tags like div tag..AND if we have siblings use array via through the child after 
 the second parameter  and it arraies the ERROR because it needs ti be unique key ...BUT but it seems more complecited threfore the JSX came into existience ..Write more about the render fumction 
 here the root is applied to an individual name of the tag it may be in even single tag..some of the facts about render are it replace what ever written in the example in the id name called as the root tag IT All replaces if we wrote outside the tag it simply primt in the page as it is 
+Episode 002->
+Igniting the app
+as we wrote the code is not for the production therefore there are packages like npm it is the package manager which has has dependencies which r respnsible for the to bulid project
+npm is used to bundle all the depencies as  parcel which bundles our code in well manner this makes our by this our app get more fasterr
+After the successfully installing we get json files which has required depencies rrason for the example version of the "parcel" ='^2.8.3' ^ which is automatically get updated not directly but via through the
+lock.json file which has Alter firstt then next one 
