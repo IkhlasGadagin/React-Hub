@@ -10,3 +10,4 @@ as we wrote the code is not for the production therefore there are packages like
 npm is used to bundle all the depencies as  parcel which bundles our code in well manner this makes our by this our app get more fasterr
 After the successfully installing we get json files which has required depencies rrason for the example version of the "parcel" ='^2.8.3' ^ which is automatically get updated not directly but via through the
 lock.json file which has Alter firstt then next one 
+the top file which has more files is due to the parcel downlodes files that is required to build our application fron
